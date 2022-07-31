@@ -68,11 +68,11 @@ html,body {
     filter: blur(20px);
 }
 
-@keyframes animate {
+/*// @keyframes animate {
     100%{
         filter: hue-rotate(360deg);
     }
-}--
+}
 
 
 
